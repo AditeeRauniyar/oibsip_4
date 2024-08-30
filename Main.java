@@ -1,3 +1,5 @@
+/*DEMO USER :"user1", "1234"*/
+
 import java.util.Scanner;
 
 public class Main {
