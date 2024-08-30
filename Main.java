@@ -1,5 +1,13 @@
-/*DEMO USER :"user1", "1234"*/
-
+/*
+DEMO USER :"user1", "1234"
+*/
+/*
+How to Run the Code
+Copy all the classes into their respective .java files (Main.java, User.java, QuizSystem.java, MCQ.java, QuizSession.java).*/
+/*
+javac Main.java User.java QuizSystem.java MCQ.java QuizSession.java
+java Main
+*/
 import java.util.Scanner;
 
 public class Main {
